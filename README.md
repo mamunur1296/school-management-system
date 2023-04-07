@@ -4,7 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+react.js
+react-redux /reduxjs/toolkit  
+tailwindCss
+react-router-dom
 
 ### `yarn start`
 
