@@ -1,8 +1,12 @@
+import React from "react";
+import RegesterPage from "./pages/regester/RegesterPage";
+import Navigation from "./components/navegation/Navigation";
 function App() {
   return (
-    <h1 className="text-2lg text-orange-500 text-center">
-      Hello world in the home and i am a teacher in this cors !
-    </h1>
+    <>
+      <Navigation />
+      <RegesterPage />
+    </>
   );
 }
 
